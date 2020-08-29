@@ -1,0 +1,23 @@
+/*! \mainpage Project 3 - Inheritance and Container
+ *
+ * \section brief_sec Overview
+ *
+ * This project expand the inheritance hierarchy of three WordList subclasses.
+ * The program will prompt the user to input a file. Then, the program provide user with  
+ * eight options, print iteratively or recursively for each subclasses with a special
+ * case, pointer recursively.
+ *
+ * \section install_sec Build/Run
+ * 
+ * \subsection make_sec Building
+ * To compile, run 
+ * make
+ * 
+ * \subsection run_sec Running
+ * Start the program with
+ * ./app
+ * 
+ * \section notes_sec Notes
+ * Notes
+ *
+ */
